@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    color: dimgrey;
+    
+}
+div{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10;
+    font-size: 20;
+    color: aqua;
+    
+    
+    
+}
+
+textarea{
+    resize: none; /*Desabilita a opção de redimensionar a caixa*/
+}
+
+input{
+    outline: none; /*Desabilita a borda de marcação da caixa quando selecionada */
+}
+    
+#formContatos{
+    width: 600px;
+    height: 500px;
+    border: solid 1px #000000;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60px;
+}
+h1{
+    color: aqua;
+    
+}
+
+.destaque{
+    font-weight: bold;
+    color: red;
+}
